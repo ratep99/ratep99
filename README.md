@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Petar Petkovic</h1>
-<h3 align="center">AI and ML Master student, and a passionate full-stack developer from Serbia</h3>
+<h3 align="center">AI and ML Master student, and a passionate Java full-stack developer from Serbia</h3>
 
-- 🔭 I’m currently working on **fleet management app**
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👯 I’m looking to collaborate on **ML and AI projects**
+- 👯 I’m looking to collaborate on **ML and Data projects**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **petkovicpetar999@gmail.com**
-
-- ⚡ Fun fact **I am also football coach and referee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
