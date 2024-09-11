@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Petar Petkovic
 
-**`AI and Full-stack Developer`**
 
-I live in Vienna, Austria, and have professional experience as a Java full-stack developer. I recently completed my master's in AI and Machine Learning and am actively seeking job opportunities in both fields. I'm passionate about collaborating on AI, ML, and data-driven projects and always open to discussing Java and full-stack development.
+I am a Software Engineer based in Vienna, Austria with professional experience as a Java full-stack developer.
+I recently completed my master's in AI and Machine Learning and am actively seeking job opportunities in both fields.
+I'm passionate about collaborating on AI, ML, Computer Vision and data-driven projects and always open to discussing Java and full-stack development.
 
 ---
 
