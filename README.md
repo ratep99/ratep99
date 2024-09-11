@@ -33,19 +33,6 @@ I'm passionate about collaborating on AI, ML, Computer Vision and data-driven pr
 
 ---
 
-### 💼 
-- :email: petkovicpetar999@gmail.com
-
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-<img alt="Petar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ratep99&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratep99&layout=compact&langs_count=8"/>
-</div>
-
----
-
 ### Profile views counter 👁️‍🗨️
-[![Profile views](https://u8views.com/api/v1/github/profiles/ratep99/views/day-week-month-total-count.svg)](https://u8views.com/github/ratep99)
+![](https://komarev.com/ghpvc/?username=ratep99&color=blue)
+
